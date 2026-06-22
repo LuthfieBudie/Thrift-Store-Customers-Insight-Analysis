@@ -1,6 +1,8 @@
 # Thrift-Store-Customers-Insight-Analysis
 Analyzing customer behavior and store performance metrics for a thrift retail business. Using synthetic data generated from an AI-driven retail simulation, this analysis aims to uncover actionable insights regarding customer shopping patterns, peak hours, and product preferences
-🛠️ Tools: Excel: Initial data exploration, data cleaning, and data type validation, Power BI: Interactive visualization and platform trend analysis.
+
+🛠️ Tools: 
+Excel: Initial data exploration, data cleaning, and data type validation, Power BI: Interactive visualization and platform trend analysis.
 
 📊 Key Insight: 
 - Financial Performance: Successfully tracked a Total Revenue of $181K across 6,652 Total Transactions, establishing an Average Order Value (AOV) of $27.24
